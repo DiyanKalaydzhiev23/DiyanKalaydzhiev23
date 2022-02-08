@@ -7,10 +7,14 @@
 - 🥅 2022 Goals: Make my biggest project "Biotest"
 - ⚡ Fun fact: I love to play guitar and solve rubik's cube
 
+---
+
 ### Connect with me:
 
 [<img src="https://www.transparentpng.com/thumb/logo-instagram/z75gfy-instagram-logo-png.png" alt="instagram logo png @transparentpng.com" width="26px" style="padding-right:50px">](https://www.instagram.com/d_kalaydzhiev/)
 [<img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/facebook/facebook-plain.svg" alt="facebook" width="26px">](https://www.facebook.com/dian.kalaidzyhiev/)
+
+---
 
 ### Languages and Tools I know:
 
