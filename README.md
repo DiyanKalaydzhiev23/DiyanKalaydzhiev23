@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Make my biggest project "Biotest"
+- 🥅 2022 Goals: Make my biggest project "EmotionTalk"
 - ⚡ Fun fact: I love to play guitar and solve rubik's cube
 
 ---
