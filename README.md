@@ -2,6 +2,8 @@
 
 ## I'm a Student now --> Next step --> Python Full Stack Web Developer
 
+<img align="right" width=120px height=120px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Make my biggest project "EmotionTalk"
