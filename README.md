@@ -4,9 +4,9 @@
 
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- 🌱 I'm majoring in informatics at New Bulgarian University
-- 💻 Currently working as Full Stack Developer at Gentle & Rose
-- 👨‍🏫 I'm a lecturer at Softuni and New Bulgarian University
+- 🌱 I'm majoring in **Informatics** at **New Bulgarian University**
+- 💻 Currently working as **Full Stack Developer** at **DevPunks**
+- 👨‍🏫 I'm a lecturer at **Softuni** and **New Bulgarian University**
 - ⚡ Fun fact: I love to play guitar and solve rubik's cube
 
 ---
