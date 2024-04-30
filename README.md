@@ -8,8 +8,8 @@
 - 💻 Currently working as **Full Stack Developer** at **DevPunks**
 - 👨‍🏫 I'm a lecturer at **Softuni** and **New Bulgarian University**
 - ⚡ Fun fact: I love to play guitar and solve rubik's cube
-- 🏆 1st place winner at Hack AUBG Hackathon
-- 🔝 Recognized in "TOP 100 most influential IT professionals in Bulgaria" of 2024
+- 🏆 **1st place winner** at **Hack AUBG Hackathon**
+- 🔝 Recognized in **"TOP 100 most influential IT professionals in Bulgaria"** of 2024
 
 ---
 
