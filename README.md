@@ -1,11 +1,11 @@
 # Hi there, I'm Diyan 👋 
 
-## I'm a Python/JS Full Stack Web Developer
+## I'm a Senior Full Stack Developer
 
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🌱 I'm majoring in **Informatics** at **New Bulgarian University**
-- 💻 Currently working as **Full Stack Developer** at **DevPunks**
+- 💻 Currently working as **Senior Backend Developer** at **Kin + Carta**
 - 👨‍🏫 I'm a lecturer at **Softuni** and **New Bulgarian University**
 - 🏆 **1st place winner** at **Hack AUBG Hackathon**
 - 🔝 Recognized in **"TOP 100 most influential IT professionals in Bulgaria"** of 2024
