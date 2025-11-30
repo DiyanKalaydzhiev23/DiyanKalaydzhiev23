@@ -5,10 +5,10 @@
 <img align="right" width=120px height=110px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🌱 I'm majoring in **Informatics** at **New Bulgarian University**
-- 💻 Currently working as **Senior Backend Developer** at **Kin + Carta**
+- 💻 Currently working as **Senior Backend Developer** at **Valtech**
 - 👨‍🏫 I'm a lecturer at **Softuni** and **New Bulgarian University**
 - 🏆 **1st place winner** at **Hack AUBG Hackathon**
-- 🔝 Recognized in **"TOP 100 most influential IT professionals in Bulgaria"** of 2024
+- 🔝 Recognized in **"TOP 100 most influential IT professionals in Bulgaria"** of 2024, 2025
 - ⚡ Fun fact: I love to play guitar and solve rubik's cube
 
 ---
