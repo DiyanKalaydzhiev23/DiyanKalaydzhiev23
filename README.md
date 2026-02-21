@@ -58,5 +58,4 @@
 
 <summary>:zap: GitHub Stats</summary>
 
-![Diyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiyanKalaydzhiev23&show_icons=true&theme=dark)
-
+![Diyan's GitHub stats](profile/stats.svg)
